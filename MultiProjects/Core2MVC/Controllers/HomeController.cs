@@ -12,6 +12,7 @@ namespace Core2MVC.Controllers
     {
         public IActionResult Index()
         {
+            //Index
             return View();
         }
 
